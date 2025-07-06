@@ -5,3 +5,4 @@ In this repository you can see how i have analyzed the sales of coffee and super
 
 ![image](https://github.com/user-attachments/assets/21cd02ca-1595-4c76-a907-cb73440fa70f)
 
+![image](https://github.com/user-attachments/assets/1e7c7add-afa0-4ee3-9fe1-dfb3e4e1e91c)
