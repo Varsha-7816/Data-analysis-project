@@ -15,6 +15,13 @@ These were my analyzed outputs for supermarket sales
 
 These were my analyzed outputs for coffee sales
 ![image](https://github.com/user-attachments/assets/1b4a170f-f7c4-44a3-874f-d0887977e75d)
+![image](https://github.com/user-attachments/assets/d665c652-8a4f-4149-8151-8b5cc3048d98)
+![image](https://github.com/user-attachments/assets/c75a3585-6648-4b8e-882d-1a50f23e5823)
+![image](https://github.com/user-attachments/assets/e11da38a-e3b3-4382-846f-79e1feb6b83d)
+![image](https://github.com/user-attachments/assets/36ff675e-df38-473f-a01a-cd0dc64c6257)
+![image](https://github.com/user-attachments/assets/626264ab-ab63-41de-892d-9951e80f0db9)
+![image](https://github.com/user-attachments/assets/f3bec7d1-dbf0-4e31-8692-cacd9cbc1567)
+![image](https://github.com/user-attachments/assets/1a93736b-6cd0-485d-8aa6-068d5f7a535b)
 
 
 
