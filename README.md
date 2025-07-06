@@ -9,3 +9,5 @@ In this repository you can see how i have analyzed the sales of coffee and super
 ![image](https://github.com/user-attachments/assets/53b1e925-1d2d-4b9a-8cb1-760ba064a2dd)
 ![image](https://github.com/user-attachments/assets/c1027b52-986e-4015-8f80-033fdca3feec)
 ![image](https://github.com/user-attachments/assets/92144214-5f19-4819-9bf8-373931b4dfbf)
+![image](https://github.com/user-attachments/assets/c20c25a9-7d64-4037-ac29-334c8043a29c)
+
